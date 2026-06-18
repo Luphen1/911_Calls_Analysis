@@ -23,8 +23,10 @@
 
 
 ### Project Overview
-This project explores emergency 911 call data to identify temporal, categorical, and geographic trends.
+This project investigates emergency 911 call data to identify patterns, trends, and insights that can improve emergency response efficiency. The analysis focuses on call types, geographic distribution, and temporal trends to provide actionable recommendations for public safety agencies.
+
 The analysis focuses on:
+
 •	Understanding the distribution of calls by type (EMS, Fire, Traffic).
 
 •	Examining seasonal and hourly variations in call volumes.
@@ -74,17 +76,6 @@ The initial data cleaning / preparation was initiated below:
 •	zip: Zip Code
 
 ### Exploratory Data Analysis (EDA)
-Below were the analytics insight questions below:
-
-1: Calls by Category.
-
-2: Calls by Day of Week.
-
-3: Calls by Hour of Day.
-
-4: Monthly Trends.
-
-5: Geographic Hotspots.
 
 The analysis of 911 call data reveals distinct patterns in emergency service demand. Understanding these trends is essential for resource allocation, staffing, and long term planning. The insights below highlight the most critical operational drivers and their implications.
 
